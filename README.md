@@ -158,7 +158,7 @@ You can add a user by sending a POST request to the following address: <endpoint
     },
    "Role": "Student (current)",
    "Cohort": "2",
-   "GTId": "999555444",
+   "GTId": "999555444"
 }
 ```
 Once a request has been recieved it will give back __Status Code 201__, input the data in our database, and return a JSON block matching the data was entered in the sent body. Such as the example below. 
@@ -171,7 +171,7 @@ Once a request has been recieved it will give back __Status Code 201__, input th
    },
    "Role": "Student (current)",
    "Cohort": "2",
-   "GTId": "999555444",
+   "GTId": "999555444"
 }
 ```
 
@@ -276,7 +276,7 @@ You can add a competency by sending a POST request to the following address: "<e
 ```json
  {  
 	  "CompetencyIds": ["001","002","003"],
-	  "LocationName" : "2",
+	  "LocationName" : "2"
  }
 ```
 Once a request has been recieved it will give back __Status Code 201__, input the data in our database, and return a JSON block matching the data was entered in the sent body. 
