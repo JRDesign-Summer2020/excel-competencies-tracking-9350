@@ -1,0 +1,8 @@
+{
+    "StudentIds": {
+        "SS": ["test1", "janedoe"]
+    },
+    "UserId": {
+        "S": "test2"
+    }
+}

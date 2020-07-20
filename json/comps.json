@@ -1,0 +1,1595 @@
+[
+    {
+      "CompetencyId": "T1",
+      "Domain": "TRANSPORTATION",
+      "CompetencyTitle": "Can call an Uber/Lyft",
+      "Subcategory": "Modes of Transportation - Uber",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "T2",
+      "Domain": "TRANSPORTATION",
+      "CompetencyTitle": "Can cancel an Uber/Lyft",
+      "Subcategory": "Modes of Transportation - Uber",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Low"
+    },
+    {
+      "CompetencyId": "T3",
+      "Domain": "TRANSPORTATION",
+      "CompetencyTitle": "Can explain location with street signs to an Uber/Lyft driver.",
+      "Subcategory": "Modes of Transportation - Uber",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Low"
+    },
+    {
+      "CompetencyId": "T4",
+      "Domain": "TRANSPORTATION",
+      "CompetencyTitle": "Can request payment from friends if sharing a ride",
+      "Subcategory": "Modes of Transportation - Uber",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Low"
+    },
+    {
+      "CompetencyId": "T5",
+      "Domain": "TRANSPORTATION",
+      "CompetencyTitle": "Can share ride details with friends and family",
+      "Subcategory": "Modes of Transportation - Uber",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "T6",
+      "Domain": "TRANSPORTATION",
+      "CompetencyTitle": "Can use app to predict when transportation will arrive",
+      "Subcategory": "Modes of Transportation - Bus and Train",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "T7",
+      "Domain": "TRANSPORTATION",
+      "CompetencyTitle": "Demonstrates bus/train safety and etiquette (including where to sit)",
+      "Subcategory": "Modes of Transportation - Bus and Train",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "T8",
+      "Domain": "TRANSPORTATION",
+      "CompetencyTitle": "Understands and can set up paratransit (Marta Mobility, Stingerette)",
+      "Subcategory": "Modes of Transportation - Bus and Train",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "T9",
+      "Domain": "TRANSPORTATION",
+      "CompetencyTitle": "Can handle strangers asking for money",
+      "Subcategory": "Modes of Transportation - Bus and Train",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "T10",
+      "Domain": "TRANSPORTATION",
+      "CompetencyTitle": "Understands safety: doesn�t talk to strangers, sits at an appropriate seat, stays alert, stays aware of time of day",
+      "Subcategory": "Modes of Transportation - Bus and Train",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "T11",
+      "Domain": "TRANSPORTATION",
+      "CompetencyTitle": "Knows how to buy and reload Marta card, including how to access fare discounts",
+      "Subcategory": "Modes of Transportation - Bus and Train",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "T13",
+      "Domain": "TRANSPORTATION",
+      "CompetencyTitle": "Understands and demonstrates when and where it is safe or unsafe to travel at night",
+      "Subcategory": "Modes of Transportation - Pedestrain",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "T14",
+      "Domain": "TRANSPORTATION",
+      "CompetencyTitle": "Able to get to class and other familiar locations",
+      "Subcategory": "Modes of Transportation - Pedestrain",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "T15",
+      "Domain": "TRANSPORTATION",
+      "CompetencyTitle": "Uses navigation app (Maps, Google Maps, etc.) on smart phone to find current location and search for directions",
+      "Subcategory": "Planning and Navigation",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "T16",
+      "Domain": "TRANSPORTATION",
+      "CompetencyTitle": "Plan alternative transportation options if the first option isn�t available",
+      "Subcategory": "Planning and Navigation",
+      "Difficulty": 4,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Low"
+    },
+    {
+      "CompetencyId": "T17",
+      "Domain": "TRANSPORTATION",
+      "CompetencyTitle": "Can estimate a reasonable commute time/cost",
+      "Subcategory": "Planning and Navigation",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Low"
+    },
+    {
+      "CompetencyId": "T18",
+      "Domain": "TRANSPORTATION",
+      "CompetencyTitle": "Uses maps application to share location with others",
+      "Subcategory": "Communication",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Low"
+    },
+    {
+      "CompetencyId": "T19",
+      "Domain": "TRANSPORTATION",
+      "CompetencyTitle": "Can give someone else their location, ask for directions and give address",
+      "Subcategory": "Communication",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "C1",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Is on time for work/internships",
+      "Subcategory": "Planning and Preparation",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Monthly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C2",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Can enter and follow work/internship schedule in calendar",
+      "Subcategory": "Planning and Preparation",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Monthly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "C3",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Plans and completes steps to prepare themselves for the day (E.g. sets alarm, has breakfast, brought a lunch, good night�s sleep, etc.)",
+      "Subcategory": "Planning and Preparation",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Monthly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C4",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Can plan and travel to a work site",
+      "Subcategory": "Planning and Preparation",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Monthly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "C5",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Understands when support is required and can ask for assistance",
+      "Subcategory": "Communication and Behavior",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C6",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Independently and appropriately communicates with supervisor and coworkers",
+      "Subcategory": "Communication and Behavior",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Monthly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C7",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Identifies needed accommodations",
+      "Subcategory": "Communication and Behavior",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C8",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Understands disability rights as defined in the Americans with Disabilities Act and Section 504 of the Rehab Act",
+      "Subcategory": "Communication and Behavior",
+      "Difficulty": 4,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "C9",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Advocates for needed accommodations",
+      "Subcategory": "Communication and Behavior",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C10",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Responds appropriately to feedback",
+      "Subcategory": "Communication and Behavior",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C11",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Understands when to request time off and requests it off appropriately",
+      "Subcategory": "Communication and Behavior",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C12",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Can complete timesheets/clocks in & out and adheres to break/lunch schedule",
+      "Subcategory": "Communication and Behavior",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C13",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Maintains professional attitude",
+      "Subcategory": "Communication and Behavior",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C14",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Understands the meaning of sexual harassment, the course of action required in response, and behaviors that could constitute sexual harassment",
+      "Subcategory": "Communication and Behavior",
+      "Difficulty": 4,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "C15",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Performs assigned tasks and follows directions on the job",
+      "Subcategory": "Work Skills",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C16",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Understands organizational roles (organizational chart)",
+      "Subcategory": "Work Skills",
+      "Difficulty": 4,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "C17",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Demonstrates, understands, and advances industry specific skills for desired career goals",
+      "Subcategory": "Work Skills",
+      "Difficulty": 4,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C18",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Understands career specific skill set and holds required licenses and certifications (i.e. CPR, forklift training, etc.)",
+      "Subcategory": "Work Skills",
+      "Difficulty": 4,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "C19",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Develops career and employment networks (general then specific)",
+      "Subcategory": "Work Skills",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C20",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Demonstrates an understanding of paycheck, pay days, taxes, and deductions",
+      "Subcategory": "Work Skills",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "C21",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Understands and utilizes basic benefits: Paid Time Off (PTO), sick days, vacation days, & unpaid time off",
+      "Subcategory": "Work Skills",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "C22",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Understands and utilizes advanced benefits: health insurance, Employee Assistance Programs (EAP)",
+      "Subcategory": "Work Skills",
+      "Difficulty": 4,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Low"
+    },
+    {
+      "CompetencyId": "C23",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Utilizes technologies, tools, and resources necessary for the job (i.e. Word, Email, or job specific technologies � Adobe, GIS, warehousing, POS�)",
+      "Subcategory": "Work Skills",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "C24",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Identifies personal work hour capacity and developed stamina for those hours",
+      "Subcategory": "Work Skills",
+      "Difficulty": 2,
+      "EvaluationFrequency": "3-4 Years",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C25",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Identifies one or more careers that fits their skills, abilities, and desired level of additional education or certifications",
+      "Subcategory": "Job Search Skills",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C26",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Understands how their job/career choices will affect potential earnings",
+      "Subcategory": "Job Search Skills",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "C27",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Completes multiple modes of applications- online, on paper, etc.",
+      "Subcategory": "Job Search Skills",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C28",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Completes initial hire paperwork",
+      "Subcategory": "Job Search Skills",
+      "Difficulty": 4,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "C29",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Updates resume to promote positive attributes",
+      "Subcategory": "Job Search Skills",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C30",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Knows how to look for a job and/or where to get assistance in the community or online",
+      "Subcategory": "Job Search Skills",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "C31",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Understands and demonstrates appropriate interview skills",
+      "Subcategory": "Job Search Skills",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C32",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Clearly explains job duties in prior work, volunteer experiences, and any trainings and credentials",
+      "Subcategory": "Job Search Skills",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C33",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Follows up appropriately to job search and interview",
+      "Subcategory": "Job Search Skills",
+      "Difficulty": 4,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "C34",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Utilizes and records an appropriate voicemail message",
+      "Subcategory": "Job Search Skills",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Low"
+    },
+    {
+      "CompetencyId": "C35",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Leaves voicemail messages with appropriate and critical information",
+      "Subcategory": "Job Search Skills",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Low"
+    },
+    {
+      "CompetencyId": "C36",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Understands when and how to change jobs",
+      "Subcategory": "Job Search Skills",
+      "Difficulty": 4,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Low"
+    },
+    {
+      "CompetencyId": "C37",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Understands expectations when giving notice and resigning",
+      "Subcategory": "Job Search Skills",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Senior",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "C38",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Identifies ideal conditions of employment: Knows personal preferences and ability to succeed in different environments (E.g.: inside, outdoors, quiet, loud, busy, no downtime, multi-tasks or few, standing, sitting, etc.)",
+      "Subcategory": "Job Search Skills",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C39",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Identifies jobs/duties that are a good fit and those that are not",
+      "Subcategory": "Job Search Skills",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C40",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Knows how much they are able to work (hours & wages) and how it affects benefits if applicable",
+      "Subcategory": "Job Search Skills",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C41",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Exhibits motivation to work",
+      "Subcategory": "Ethics, Values, and Intiative",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C42",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Demonstrates honesty & integrity in workplace relations",
+      "Subcategory": "Ethics, Values, and Intiative",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C43",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Identifies tasks that need to be done and completes them without being asked or upon receiving permission; shows initiative",
+      "Subcategory": "Ethics, Values, and Intiative",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "C44",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Understands appropriate workplace relationship boundaries",
+      "Subcategory": "Ethics, Values, and Intiative",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C45",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Exhibits appropriate self-control in language, behavior, and responses to stress in classroom and work",
+      "Subcategory": "Ethics, Values, and Intiative",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C46",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Presents clean, neat and appropriate attire / uniform",
+      "Subcategory": "Hygiene and Physical Presentation",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "C47",
+      "Domain": "EMPLOYMENT_AND_CAREERS",
+      "CompetencyTitle": "Displays good hygiene and grooming: Including body, hair, nails, teeth",
+      "Subcategory": "Hygiene and Physical Presentation",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "W1",
+      "Domain": "HEALTH_AND_WELLNESS",
+      "CompetencyTitle": "Knows the risks and consequences of drug and alcohol use",
+      "Subcategory": "General Wellness",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "W2",
+      "Domain": "HEALTH_AND_WELLNESS",
+      "CompetencyTitle": "Can determine when they are sick and need to contact staff or their employer for a sick day",
+      "Subcategory": "General Wellness",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Monthly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "W3",
+      "Domain": "HEALTH_AND_WELLNESS",
+      "CompetencyTitle": "Can verbalize symptoms clearly",
+      "Subcategory": "General Wellness",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "W4",
+      "Domain": "HEALTH_AND_WELLNESS",
+      "CompetencyTitle": "Understands and displays the importance of getting an adequate amount of sleep.",
+      "Subcategory": "General Wellness",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Monthly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "W5",
+      "Domain": "HEALTH_AND_WELLNESS",
+      "CompetencyTitle": "Incorporates adequate communication skills in health-focused conversations",
+      "Subcategory": "Self-Advocacy",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "W6",
+      "Domain": "HEALTH_AND_WELLNESS",
+      "CompetencyTitle": "Practices the skills necessary to access healthcare services when needed",
+      "Subcategory": "Self-Advocacy",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "W7",
+      "Domain": "HEALTH_AND_WELLNESS",
+      "CompetencyTitle": "Understands how to use health insurance and has a physical/digital copy of insurance card on person",
+      "Subcategory": "Self-Advocacy",
+      "Difficulty": 4,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "W8",
+      "Domain": "HEALTH_AND_WELLNESS",
+      "CompetencyTitle": "Schedules a routine of physical activity",
+      "Subcategory": "Physical Health",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "W9",
+      "Domain": "HEALTH_AND_WELLNESS",
+      "CompetencyTitle": "Can research resources that will benefit their physical health",
+      "Subcategory": "Physical Health",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "W10",
+      "Domain": "HEALTH_AND_WELLNESS",
+      "CompetencyTitle": "Understands the relationship between physical activity and body weight",
+      "Subcategory": "Physical Health",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "W11",
+      "Domain": "HEALTH_AND_WELLNESS",
+      "CompetencyTitle": "Uses independent living skills to provide nutrition for themselves",
+      "Subcategory": "Nutrition, Diet, Cooking",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Monthly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "W12",
+      "Domain": "HEALTH_AND_WELLNESS",
+      "CompetencyTitle": "Can follow a recipe to prepare a balanced meal",
+      "Subcategory": "Nutrition, Diet, Cooking",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Monthly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "W13",
+      "Domain": "HEALTH_AND_WELLNESS",
+      "CompetencyTitle": "Can shop and select appropriate items/ingredients for a week's worth of meals",
+      "Subcategory": "Nutrition, Diet, Cooking",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Monthly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "W14",
+      "Domain": "HEALTH_AND_WELLNESS",
+      "CompetencyTitle": "Can research stress management resources and understand which they should use to remain in good psychological health",
+      "Subcategory": "Social and Emotional Health",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "W15",
+      "Domain": "HEALTH_AND_WELLNESS",
+      "CompetencyTitle": "Understands the importance of positive self-esteem on their health",
+      "Subcategory": "Social and Emotional Health",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Monthly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "W16",
+      "Domain": "HEALTH_AND_WELLNESS",
+      "CompetencyTitle": "Understands appropriate response in various emergency situations",
+      "Subcategory": "Safety and First Aid",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "W17",
+      "Domain": "HEALTH_AND_WELLNESS",
+      "CompetencyTitle": "Understands basic first-aid skills and their application",
+      "Subcategory": "Safety and First Aid",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "W18",
+      "Domain": "HEALTH_AND_WELLNESS",
+      "CompetencyTitle": "Understands the risks, responsibilites, and consequences of sexual interactions",
+      "Subcategory": "Sexual Health",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "F1",
+      "Domain": "FINANCIAL_LITERACY",
+      "CompetencyTitle": "Demonstrates ability to comparison shop",
+      "Subcategory": "Spending Behaviors",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "F2",
+      "Domain": "FINANCIAL_LITERACY",
+      "CompetencyTitle": "Understands the �Consumer Bill of Rights�",
+      "Subcategory": "Spending Behaviors",
+      "Difficulty": 4,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Low"
+    },
+    {
+      "CompetencyId": "F3",
+      "Domain": "FINANCIAL_LITERACY",
+      "CompetencyTitle": "Can estimate the price of typical items",
+      "Subcategory": "Spending Behaviors",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "F4",
+      "Domain": "FINANCIAL_LITERACY",
+      "CompetencyTitle": "Understands how to protect themselves against identity theft",
+      "Subcategory": "Protecting Personal Information",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "F5",
+      "Domain": "FINANCIAL_LITERACY",
+      "CompetencyTitle": "Understands the practice and importance of budgeting",
+      "Subcategory": "Budgeting",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "F6",
+      "Domain": "FINANCIAL_LITERACY",
+      "CompetencyTitle": "Understands the importance of paying bills and making payments on time",
+      "Subcategory": "Budgeting",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "F7",
+      "Domain": "FINANCIAL_LITERACY",
+      "CompetencyTitle": "Categorizes needs and wants",
+      "Subcategory": "Budgeting",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "F8",
+      "Domain": "FINANCIAL_LITERACY",
+      "CompetencyTitle": "Knows the difference between using a credit card, a debit card, or cash",
+      "Subcategory": "Tools",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "F9",
+      "Domain": "FINANCIAL_LITERACY",
+      "CompetencyTitle": "Knows the different types of bank accounts",
+      "Subcategory": "Bank",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "F10",
+      "Domain": "FINANCIAL_LITERACY",
+      "CompetencyTitle": "Knows how to use banking app on phone or computer to check account balance, account history, transactions, and reouting/account number",
+      "Subcategory": "Bank",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "F11",
+      "Domain": "FINANCIAL_LITERACY",
+      "CompetencyTitle": "Knows how to cash or deposit checks and cash",
+      "Subcategory": "Bank",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "F12",
+      "Domain": "FINANCIAL_LITERACY",
+      "CompetencyTitle": "Understands the role and effects of a credit score",
+      "Subcategory": "Credit Card",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Low"
+    },
+    {
+      "CompetencyId": "F13",
+      "Domain": "FINANCIAL_LITERACY",
+      "CompetencyTitle": "Knows the difference between a loan and credit",
+      "Subcategory": "Credit Card",
+      "Difficulty": 4,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Low"
+    },
+    {
+      "CompetencyId": "F14",
+      "Domain": "FINANCIAL_LITERACY",
+      "CompetencyTitle": "Knows ATM function, how to take out cash, and how to safely access account with debit PIN number",
+      "Subcategory": "Debit Card",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "F15",
+      "Domain": "FINANCIAL_LITERACY",
+      "CompetencyTitle": "Can figure out how much and when to tip i.e. restaurant/valet/haircut/nail salon/order takeout/Uber/etc.",
+      "Subcategory": "Cash",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "H1",
+      "Domain": "HOUSING",
+      "CompetencyTitle": "Locks and secures the doors",
+      "Subcategory": "Safety",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "H2",
+      "Domain": "HOUSING",
+      "CompetencyTitle": "Knows who to contact if feeling unsafe while at home",
+      "Subcategory": "Safety",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "N/A"
+    },
+    {
+      "CompetencyId": "H3",
+      "Domain": "HOUSING",
+      "CompetencyTitle": "Safely uses oven, stove and appliances",
+      "Subcategory": "Safety",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "H4",
+      "Domain": "HOUSING",
+      "CompetencyTitle": "Distinguishes between appropriate and inappropriate people to invite into the home",
+      "Subcategory": "Safety",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "H5",
+      "Domain": "HOUSING",
+      "CompetencyTitle": "Knows neighborhood landmarks (banks, grocery, work, police, public transportation)",
+      "Subcategory": "Safety",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "H6",
+      "Domain": "HOUSING",
+      "CompetencyTitle": "Knows address and can provide when needed",
+      "Subcategory": "Safety",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "H7",
+      "Domain": "HOUSING",
+      "CompetencyTitle": "Chooses a home that is accessible to work with wanted and avoidance of unwanted amenities",
+      "Subcategory": "Housing Planning",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "H8",
+      "Domain": "HOUSING",
+      "CompetencyTitle": "Can safely access and navigate housing resources (Facebook, craigslist, google search)",
+      "Subcategory": "Housing Planning",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Low"
+    },
+    {
+      "CompetencyId": "H9",
+      "Domain": "HOUSING",
+      "CompetencyTitle": "Can contact leasing agents, communicate appropriately about logistics, set up a visit",
+      "Subcategory": "Housing Planning",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Low"
+    },
+    {
+      "CompetencyId": "H10",
+      "Domain": "HOUSING",
+      "CompetencyTitle": "Understands leasing vs subleasing",
+      "Subcategory": "Housing Planning",
+      "Difficulty": 4,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Low"
+    },
+    {
+      "CompetencyId": "H11",
+      "Domain": "HOUSING",
+      "CompetencyTitle": "Understands which utilities are included in rent",
+      "Subcategory": "Housing Planning",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "H12",
+      "Domain": "HOUSING",
+      "CompetencyTitle": "Understands how to set up utility services (trash, electricity, internet, etc.)",
+      "Subcategory": "Housing Planning",
+      "Difficulty": 4,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "H13",
+      "Domain": "HOUSING",
+      "CompetencyTitle": "Can safely access and navigate searching for a roommate",
+      "Subcategory": "Housing Planning",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "H14",
+      "Domain": "HOUSING",
+      "CompetencyTitle": "Maintains a clean shared space",
+      "Subcategory": "Maintenance and Upkeep",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Monthly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "H15",
+      "Domain": "HOUSING",
+      "CompetencyTitle": "Properly contacts and informs the appropriate person if something is broken",
+      "Subcategory": "Maintenance and Upkeep",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Low"
+    },
+    {
+      "CompetencyId": "H16",
+      "Domain": "HOUSING",
+      "CompetencyTitle": "Can successfully complete the steps of wasahing and drying clothes",
+      "Subcategory": "Maintenance and Upkeep",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Monthly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "H17",
+      "Domain": "HOUSING",
+      "CompetencyTitle": "Can communicate shared roommate expectations and responsibilities",
+      "Subcategory": "Roomates and Shared Space",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "H18",
+      "Domain": "HOUSING",
+      "CompetencyTitle": "Has appropriate volume of music, tv, voice",
+      "Subcategory": "Roomates and Shared Space",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "H19",
+      "Domain": "HOUSING",
+      "CompetencyTitle": "Understands split responsibility of payment with roommate",
+      "Subcategory": "Roomates and Shared Space",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Low"
+    },
+    {
+      "CompetencyId": "H20",
+      "Domain": "HOUSING",
+      "CompetencyTitle": "Appropriately approaches roommate regarding conflicts",
+      "Subcategory": "Roomates and Shared Space",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "S1",
+      "Domain": "SOCIAL_AND_LEADERSHIP",
+      "CompetencyTitle": "Shows respect to individuals with whom they interact (i.e. peers, advisors, instructors, etc.)",
+      "Subcategory": "General Social Skills",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "S2",
+      "Domain": "SOCIAL_AND_LEADERSHIP",
+      "CompetencyTitle": "Initiates and maintains friendships",
+      "Subcategory": "General Social Skills",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "S3",
+      "Domain": "SOCIAL_AND_LEADERSHIP",
+      "CompetencyTitle": "Uses appropriate body language (personal space, gestures, facial expressions, eye contact, etc.)",
+      "Subcategory": "General Social Skills",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "S4",
+      "Domain": "SOCIAL_AND_LEADERSHIP",
+      "CompetencyTitle": "Initiates �small talk� (asking people about how their weekend was, or what are their plans for the holidays, etc.)",
+      "Subcategory": "General Social Skills",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "S5",
+      "Domain": "SOCIAL_AND_LEADERSHIP",
+      "CompetencyTitle": "Arrives on time for meetings and events, but if not, practices proper etiquette when communicating with host/organizer/instructor",
+      "Subcategory": "General Social Skills",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "S6",
+      "Domain": "SOCIAL_AND_LEADERSHIP",
+      "CompetencyTitle": "Demonstrates skills to enter, exit, and maintain a conversation",
+      "Subcategory": "General Social Skills",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "S7",
+      "Domain": "SOCIAL_AND_LEADERSHIP",
+      "CompetencyTitle": "Demonstrates the skills of hosting get-togethers",
+      "Subcategory": "General Social Skills",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "S8",
+      "Domain": "SOCIAL_AND_LEADERSHIP",
+      "CompetencyTitle": "Demonstrates the skills of attending get-togethers",
+      "Subcategory": "General Social Skills",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "S9",
+      "Domain": "SOCIAL_AND_LEADERSHIP",
+      "CompetencyTitle": "Follows through with commitments to get-togethers (both planning and attending)",
+      "Subcategory": "General Social Skills",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "S10",
+      "Domain": "SOCIAL_AND_LEADERSHIP",
+      "CompetencyTitle": "Demonstrates appropriate topics of conversation, including knowing what is private, in different settings (at place of work; with my friends; with people just met).",
+      "Subcategory": "General Social Skills",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "S11",
+      "Domain": "SOCIAL_AND_LEADERSHIP",
+      "CompetencyTitle": "Addresses bullying through effective communication by discussing the situation with others, or asking for help if needed",
+      "Subcategory": "General Social Skills",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "S12",
+      "Domain": "SOCIAL_AND_LEADERSHIP",
+      "CompetencyTitle": "Uses appropriate volume of voice when communicating in different settings",
+      "Subcategory": "General Social Skills",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "S13",
+      "Domain": "SOCIAL_AND_LEADERSHIP",
+      "CompetencyTitle": "Regulates emotions appropriately i.e. excitement, anger, frustration, sadness",
+      "Subcategory": "General Social Skills",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "S14",
+      "Domain": "SOCIAL_AND_LEADERSHIP",
+      "CompetencyTitle": "Understands appropriate sources of dating partners (dating apps, workplace, classmates) and inappropriate sources (supervisors, people in relationships)",
+      "Subcategory": "General Social Skills",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "S15",
+      "Domain": "SOCIAL_AND_LEADERSHIP",
+      "CompetencyTitle": "Knows how to appropriately ask someone on a date",
+      "Subcategory": "General Social Skills",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "S16",
+      "Domain": "SOCIAL_AND_LEADERSHIP",
+      "CompetencyTitle": "Knows how to appropriately handle rejection",
+      "Subcategory": "General Social Skills",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "Low"
+    },
+    {
+      "CompetencyId": "S17",
+      "Domain": "SOCIAL_AND_LEADERSHIP",
+      "CompetencyTitle": "Demonstrates ability to communicate strengths and weaknesses and how these contribute to preferences, abilities, and personality",
+      "Subcategory": "Leadership",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Low"
+    },
+    {
+      "CompetencyId": "S18",
+      "Domain": "SOCIAL_AND_LEADERSHIP",
+      "CompetencyTitle": "Understands their disability",
+      "Subcategory": "Leadership",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Yearly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "S19",
+      "Domain": "SOCIAL_AND_LEADERSHIP",
+      "CompetencyTitle": "Participates in a leadership role on campus or in their community",
+      "Subcategory": "Leadership",
+      "Difficulty": 4,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "S20",
+      "Domain": "SOCIAL_AND_LEADERSHIP",
+      "CompetencyTitle": "Actively engages in activities. This includes attending meetings, participating in discussions, completing designated responsibilities, and contributing to decision making.",
+      "Subcategory": "Academic",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "S21",
+      "Domain": "SOCIAL_AND_LEADERSHIP",
+      "CompetencyTitle": "Practices skills to create an effective study environment (i.e. study hall, tutoring sessions)",
+      "Subcategory": "Academic",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "S22",
+      "Domain": "SOCIAL_AND_LEADERSHIP",
+      "CompetencyTitle": "Strives for excellence (i.e. goes above and beyond established goals)",
+      "Subcategory": "Academic",
+      "Difficulty": -1,
+      "EvaluationFrequency": "Null",
+      "Importance": "N/A"
+    },
+    {
+      "CompetencyId": "TC1",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Manages passwords in a safe list and is able to type in passwords",
+      "Subcategory": "Password and Safety",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "TC2",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Resets passwords as needed",
+      "Subcategory": "Password and Safety",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "TC3",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Blocks people when necessary to avoid harassment or for a scam",
+      "Subcategory": "Password and Safety",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "TC4",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Understands not to give out passwords, credit card info, address, or other sensitive information",
+      "Subcategory": "Password and Safety",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "TC5",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Understands how to be safe when making friends online",
+      "Subcategory": "Password and Safety",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "TC6",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Does not start or resolve conflicts on social media",
+      "Subcategory": "Social Media",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "TC7",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Understands social media as a networking or job search tool",
+      "Subcategory": "Social Media",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "TC8",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Understands the risks, responsibilities, and consequences of online bullying",
+      "Subcategory": "Social Media",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "TC9",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Understand the risks, responsibilities, and consequences of posting nudity, drugs, or alcohol",
+      "Subcategory": "Social Media",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "TC10",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Understands that there is a record of everything once posted, understands how to change social media privacy settings",
+      "Subcategory": "Social Media",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "TC11",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Understands appropriate calling hours for coworkers vs friends",
+      "Subcategory": "Phone - Calling and Texting",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "TC12",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Starts and ends phone conversations with appropriate greetings",
+      "Subcategory": "Phone - Calling and Texting",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "TC13",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Checks texts every few hours and responds.",
+      "Subcategory": "Phone - Calling and Texting",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "TC14",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Knows appropriate texting frequency- doesn't text excessively.",
+      "Subcategory": "Phone - Calling and Texting",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Low"
+    },
+    {
+      "CompetencyId": "TC15",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Knows texting lingo and what's appropriate in different situations",
+      "Subcategory": "Phone - Calling and Texting",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "TC16",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Knows how to set up a group text",
+      "Subcategory": "Phone - Calling and Texting",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "TC17",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Uses proper opening, subject line, and signature",
+      "Subcategory": "Email",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "TC18",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Checks email daily",
+      "Subcategory": "Email",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "TC19",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Understands what emails warrant a response and what doesn�t",
+      "Subcategory": "Email",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "TC20",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Reads details of an email and responds accordingly",
+      "Subcategory": "Email",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "TC21",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Uses proper grammar, spelling, font, capitalizations, punctuations, etc.",
+      "Subcategory": "Email",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "TC22",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Can download and upload various file types onto a computer (.doc, .jpeg, .gif, .pdf, etc.)",
+      "Subcategory": "Computer and Internet Skills",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "TC23",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Properly uses different file formats (.doc, .jpeg, .gif, .pdf, etc. )",
+      "Subcategory": "Computer and Internet Skills",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "TC24",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Understands the difference between safe and unsafe downloadable files",
+      "Subcategory": "Computer and Internet Skills",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "TC25",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Demonstrates basic navigation of websites- Canvas, Google, Passport, etc.",
+      "Subcategory": "Computer and Internet Skills",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "TC26",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Can search for basic information and apply their findings",
+      "Subcategory": "Computer and Internet Skills",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "TC27",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Understands assistive technology available for their needs and utilizes it as necessary",
+      "Subcategory": "Apps and Programs",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "TC28",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Demonstrates fluency in a word processing program (Word or similar)",
+      "Subcategory": "Apps and Programs",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "TC29",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Manages a calendar and schedules daily living, employment, and social events.",
+      "Subcategory": "Apps and Programs",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "TC30",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Performs basic technology troubleshooting tasks (restart, Help function)",
+      "Subcategory": "Troubleshooting",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "TC31",
+      "Domain": "TECHNOLOGY_AND_COMMUNICATION",
+      "CompetencyTitle": "Can clearly describe a technology problem through a Google search or when asking others for help",
+      "Subcategory": "Troubleshooting",
+      "Difficulty": 3,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "P1",
+      "Domain": "PROGRAM_AND_ACADEMICS",
+      "CompetencyTitle": "Asks instructor about academic and social performance as needed",
+      "Subcategory": "N/A",
+      "Difficulty": 1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "P2",
+      "Domain": "PROGRAM_AND_ACADEMICS",
+      "CompetencyTitle": "Asks for help when support is needed with school assignments",
+      "Subcategory": "N/A",
+      "Difficulty": 2,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "Medium"
+    },
+    {
+      "CompetencyId": "P3",
+      "Domain": "PROGRAM_AND_ACADEMICS",
+      "CompetencyTitle": "Final grade for class",
+      "Subcategory": "N/A",
+      "Difficulty": -1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "P4",
+      "Domain": "PROGRAM_AND_ACADEMICS",
+      "CompetencyTitle": "Completes all assignments on time",
+      "Subcategory": "N/A",
+      "Difficulty": -1,
+      "EvaluationFrequency": "Null",
+      "Importance": "N/A"
+    },
+    {
+      "CompetencyId": "P5",
+      "Domain": "PROGRAM_AND_ACADEMICS",
+      "CompetencyTitle": "Uses various techniques to express opinions both in writing, oral presentations, and conversation",
+      "Subcategory": "N/A",
+      "Difficulty": -1,
+      "EvaluationFrequency": "Semesterly",
+      "Importance": "High"
+    },
+    {
+      "CompetencyId": "P6",
+      "Domain": "PROGRAM_AND_ACADEMICS",
+      "CompetencyTitle": "Understands code of conduct and does not have any violations",
+      "Subcategory": "N/A",
+      "Difficulty": -1,
+      "EvaluationFrequency": "Null",
+      "Importance": "N/A"
+    }
+  ]

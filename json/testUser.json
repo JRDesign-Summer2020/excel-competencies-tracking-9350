@@ -1,0 +1,24 @@
+{
+   "UserId": {
+       "S": "janedoe"
+   },
+   "UserInfo": {
+       "M": {
+           "Name": {
+                "S": "Jane Doe"
+            },
+            "Email": {
+                "S": "jdoe7@gatech.edu"
+            }
+        }
+    },
+   "Role": {
+       "S": "Student (current)"
+   },
+   "Cohort": {
+       "S": "2"
+   },
+   "GTId": {
+       "S": "999555444"
+   }
+}

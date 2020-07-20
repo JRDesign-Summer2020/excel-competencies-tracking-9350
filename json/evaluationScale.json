@@ -1,0 +1,44 @@
+[
+    {
+        "EvaluationScore": "4",
+        "Title": "Does it well / Has Mastered",
+        "Frequency": "Almost all of the time",
+        "Support": "No support or prompt needed",
+        "Explanation": "Student consistently performs this skill independently and in proper settings. They understand this concept without further assistance or explanation required. Student is aware of the importance of this competency."
+    },
+    {
+        "EvaluationScore": "3",
+        "Title": "Can do by self and completes it fairly well",
+        "Frequency": "Some (3/4) of the time",
+        "Support": "Needs minimal support or prompt",
+        "Explanation": "Student is able to perform this skill or can do most of the skill with some basic prompting or reminders from others."
+    },
+    {
+        "EvaluationScore": "2",
+        "Title": "Can do, but not well - Demonstrating progress",
+        "Frequency": "1/4 of the time",
+        "Support": "Needs partial support",
+        "Explanation": "Student attempts to perform this skill independently, but requires assistance, support or reminders from others to execute accurately. Student is unlikely to perform this skill without assistance from others."
+    },
+    {
+        "EvaluationScore": "1",
+        "Title": "Unable to do/Cannot do",
+        "Frequency": "Almost never",
+        "Support": "Full support required",
+        "Explanation": "Student requires support from start to finish of the skill. Student does not understand the skill or why it is necessary. A student earns a 1 instead of a 0 in this category if they continue to attempt this skill with help from others."
+    },
+    {
+        "EvaluationScore": "0",
+        "Title": "N/A",
+        "Frequency": "N/A",
+        "Support": "N/A",
+        "Explanation": "Unwilling - can do but chooses not to do (If checked, then an explanation is required)"
+    },
+    {
+        "EvaluationScore": "N",
+        "Title": "Not evaluated by observation or not applicable",
+        "Frequency": "N/A",
+        "Support": "N/A",
+        "Explanation": "N/A"
+    }
+]

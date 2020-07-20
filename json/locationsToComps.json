@@ -1,0 +1,152 @@
+[
+    {
+      "LocationId": "Self-Awareness (PEERS)",
+      "CompetencyIds": ["C3", "W14", "W15", "W18", "H4", "H17", "H18", "H19", "H20", "S1", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "S9", "S10", "S11", "S12", "S14", "S15", "S16", "S20", "TC6", "TC8", "TC9", "TC10", "TC11", "TC12", "TC14", "TC15", "TC16", "P1", "P2", "P3", "P4", "P5"],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "Health and Wellness",
+      "CompetencyIds": ["C3", "W1", "W4", "W5", "W6", "W7", "W8", "W9", "W10", "W11", "W12", "W13","W14", "W15", "W16", "W17", "W18", "S1", "S20", "TC8", "TC9", "P1", "P2","P3","P4", "P5"],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "Communication/ Self-Advocacy",
+      "CompetencyIds": ["C3", "W14", "W15", "W18", "H17", "H18", "H19", "H20", "S1", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "S9", "S10", "S11", "S12", "S13", "S14", "S15", "S16", "S17",  "S20", "TC6", "TC8", "TC9", "TC10", "TC11", "TC12", "TC15", "TC15", "TC16", "P1", "P2", "P3", "P4", "P5"],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "Financial Lit I",
+      "CompetencyIds": ["C3", "W13", "F1", "F2", "F3", "F4", "F5", "F6", "F7", "F8", "F8", "F9", "F10", "F11", "F12", "F13", "F14", "F15", "S1", "S20", "P1", "P2", "P3", "P4", "P5"],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "Financial Lit II",
+      "CompetencyIds": ["C3", "W15", "F1", "F2", "F3", "F4", "F5", "F6", "F7", "F8", "F8", "F9", "F10", "F11", "F12", "F13", "S1", "S20", "P1", "P2", "P3", "P4", "P5"],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "Diversity",
+      "CompetencyIds": ["C3", "S1", "S10", "S17", "S18", "S20", "P1", "P2", "P3", "P4", "P5"],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "Technology",
+      "CompetencyIds": ["C3", "S1", "S20", "TC1", "TC2", "TC3", "TC4", "TC5", "TC6", "TC8", "TC9", "TC10", "TC11", "TC12", "TC13", "TC14", "TC15", "TC16", "TC17", "TC18", "TC19", "TC20", "TC21", "TC22", "TC23", "TC24", "TC25", "TC26", "TC28", "TC29", "TC30", "TC31", "P1", "P2", "P3", "P4", "P5"],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "Multimedia",
+      "CompetencyIds": ["C3", "S1", "S20", "TC30", "TC31", "P1", "P2", "P3", "P4", "P5"],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "Intro to Programming",
+      "CompetencyIds": ["C3", "S1", "S20", "TC30", "TC31", "P1", "P2", "P3", "P4", "P5"],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "Practical Teamwork",
+      "CompetencyIds": ["C3", "S1", "S20", "P1", "P2", "P3", "P4", "P5"],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "Values/ Reflection",
+      "CompetencyIds": ["C3", "S1", "S20", "P1", "P2", "P3", "P4", "P5"],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "Current Events",
+      "CompetencyIds": ["C3", "S1", "S20", "P1", "P2", "P3", "P4", "P5"],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "PATP",
+      "CompetencyIds": ["T1", "T2", "T3", "T4", "T5", "T15", "C3", "W9", "W10", "W11", "F5", "F6", "F10", "F12", "F13", "H10", "H11", "H17", "S1", "S20", "P1", "P2", "P3", "P4", "P5"],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "Senior Capstone",
+      "CompetencyIds": ["T8", "T15", "T17", "T19", "C3", "W2", "W6", "W7", "F1", "F12", "F13", "F15", "H2", "H4", "H5", "H6", "H7","H8", "H9", "H10", "H11", "H12", "H13", "H15", "H17", "S1", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "S9", "S10", "S11", "S12", "S13", "S14", "S15", "S16", "S17", "S18", "S19", "S20", "P1", "P2", "P3", "P4", "P5"],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "ITP",
+      "CompetencyIds": ["C3", "H7","H8", "H9", "H10", "H11", "H12", "H13", "H19", "S1", "P1", "P2", "P3", "P4", "P5"],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "Career Explorations",
+      "CompetencyIds": ["C1", "C2", "C3", "C7", "C8", "C10", "C11", "C12", "C13", "C25", "C26", "C29", "C31", "C32", "C38", "C39", "C45", "S1", "S20", "P1", "P2", "P3", "P4", "P5"],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "Career Success I",
+      "CompetencyIds": ["C1", "C2", "C3", "C6", "C7", "C10", "C13", "C14", "C20", "C21", "C24", "C29", "C31", "C32", "C38", "C39", "C44", "C45", "C46", "C47", "S1", "S20", "P1", "P2", "P3", "P4", "P5"],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "Career Success II",
+      "CompetencyIds": ["C1", "C2", "C3", "C6", "C7", "C10", "C19", "C20", "C21", "C24", "C29", "C31", "C32", "C38", "C39", "C45", "S1", "S20", "P1", "P2", "P3", "P4", "P5"],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "Career Success III",
+      "CompetencyIds": ["C1", "C2", "C3", "C6", "C7", "C8", "C10", "C13", "C19", "C20", "C21", "C24", "C29", "C30", "C31", "C32", "C38", "C39", "C44", "C45", "S1", "S20", "P1", "P2", "P3", "P4", "P5"],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "Career Seminar I",
+      "CompetencyIds": ["C1", "C2", "C3", "C6", "C7", "C10", "C13", "C17", "C19", "C20", "C24", "C25", "C26", "C27", "C28", "C29", "C30", "C31", "C32", "C34", "C35", "C38", "C39", "C45", "S1", "S20", "P1", "P2", "P3", "P4", "P5"],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "Career Seminar II",
+      "CompetencyIds": ["C1", "C2", "C3", "C6", "C7", "C10", "C14", "C17", "C19", "C20", "C24", "C27", "C29", "C30", "C31", "C32", "C34", "C38", "C39", "C44", "C45", "S1", "S20", "P1", "P2", "P3", "P4", "P5"],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "Career Seminar III",
+      "CompetencyIds": ["C1", "C2", "C3", "C6", "C7", "C10", "C16", "C17", "C18", "C19", "C20", "C24", "C27", "C29", "C30", "C31", "C32", "C33", "C34", "C38", "C39", "C45", "S1", "S20", "P1", "P2", "P3", "P4", "P5"],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "Career Seminar IV",
+      "CompetencyIds": ["C1", "C2", "C3", "C6", "C7", "C8", "C10", "C14", "C17", "C18", "C19", "C20","C21", "C22", "C24", "C27", "C28", "C29", "C30", "C31", "C32", "C33", "C34", "C35", "C37", "C38", "C39", "C44", "C45", "S1", "S20", "P1", "P2", "P3", "P4", "P5"],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "CDE",
+      "CompetencyIds": ["S1", "S20", "P1", "P2", "P3", "P4", "P5"],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "Internship Eval",
+      "CompetencyIds": ["C1", "C2", "C3", "C5", "C6", "C10", "C11", "C12", "C13", "C15", "C23", "C24", "C41", "C42", "C43", "C45", "C46", "S1"],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "Advising (academic)",
+      "CompetencyIds": ["C45", "C46", "C47", "S1", "S3", "S4", "S5", "S6", "S7", "S8", "S9", "S10", "S12", "S13", "S17", "S18", "S20", "S21", "TC1", "TC2", "TC11", "TC12", "TC13", "TC14", "TC15", "TC17", "TC18", "TC19", "TC20", "TC21", "TC22", "TC23", "TC25", "TC26", "TC27","TC28", "TC29", "P1", "P2", "P4"],
+      "LocationName": "Advising (academic)"
+    },
+    {
+      "LocationId": "Advising (career)",
+      "CompetencyIds": ["T1", "T2", "T3", "T4", "T5", "T6", "T7", "T8", "T9", "T10", "T11", "T12", "T13", "T14", "T15", "T16", "T17", "T18", "T19", "C34", "C45", "C46", "C47", "W1", "W4", "W8", "W11", "W12", "W13", "W14", "W15", "F1", "F3", "F5", "F7", "F8", "F10", "F14", "F15", "H1", "H2", "H3", "H4", "H6", "H14", "H15", "H16", "H17", "H18", "H20", "S1", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "S9", "S10", "S11", "S12", "S13", "S14", "S15", "S16", "S17", "S18", "S19", "S20", "TC6", "TC7", "TC8", "TC9", "TC10", "TC11", "TC12", "TC13", "TC14", "TC15", "TC16", "TC29", "TC30", "TC31"],
+      "LocationName": "Advising (career)"
+    },
+    {
+      "LocationId": "Advision (social)",
+      "CompetencyIds": ["T1", "T2", "T3", "T4", "T5", "T7", "T8", "T9", "T10", "T11", "T14", "T15", "T16", "T17", "T18", "T19", "C4", "C5", "C9", "C10", "C11", "C12", "C13", "C17", "C21", "C22", "C23", "C24", "C25", "C26", "C27", "C28", "C29", "C30", "C35", "C36", "C37", "C40", "C41", "C44", "C46", "C47", "W2", "W4", "F4", "H16", "S1", "S3", "S4", "S5", "S6", "S10", "S11", "S12", "S13", "S17", "S18", "S20", "TC1", "TC2", "TC3", "TC4", "TC5", "TC11", "TC12", "TC13", "TC14", "TC15", "TC16", "TC17", "TC18", "TC19", "TC20", "TC21", "TC25", "TC26", "TC27", "TC28", "TC29", "TC30", "TC31"],
+      "LocationName": "Advision (social)"
+    },
+    {
+      "LocationId": "Inclusive Course 1",
+      "CompetencyIds": [],
+      "LocationName": "Not yet set"
+    },
+    {
+      "LocationId": "Inclusive Course 2",
+      "CompetencyIds": [],
+      "LocationName": "Not yet set"
+    }
+  ]

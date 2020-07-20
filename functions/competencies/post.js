@@ -7,10 +7,10 @@ const ddb = new AWS.DynamoDB.DocumentClient();
 const COMPETENCIES_DDB_TABLE_NAME= process.env.COMPETENCIES_DDB_TABLE_NAME; 
 
 /* CONSTANTS */
-const REQUIRED_ARGS = ["CompetencyId", "CompetencyTitle", "Domain", "Subcategory", "Importance", "Difficulty", "EvaluationFrequency"];
-const VALID_DOMAINS = ["TRANSPORTATION", "EMPLOYMENT_AND_CAREERS", "HEALTH_AND_WELLNESS", "FINANCIAL_LITERACY", "HOUSING", "SOCIAL_AND_LEADERSHIP", "TECHNOLOGY_AND_COMMUNICATION"];
-const VALID_DIFFICULTY = ["1", "2", "3", "4"];
-const VALID_FREQUENCIES = ["MONTHLY", "SEMESTERLY", "YEARLY"];
+const REQUIRED_ARGS = ["CompetencyId", "Domain", "CompetencyTitle", "Subcategory", "Difficulty", "EvaluationFrequency"];
+const VALID_DOMAINS = ["TRANSPORTATION", "EMPLOYMENT_AND_CAREERS", "HEALTH_AND_WELLNESS", "FINANCIAL_LITERACY", "HOUSING", "SOCIAL_AND_LEADERSHIP", "TECHNOLOGY_AND_COMMUNICATION", "PROGRAM_AND_ACADEMICS"];
+const VALID_DIFFICULTY = ["-1", "1", "2", "3", "4"];
+const VALID_FREQUENCIES = ["Monthly", "Semesterly", "Yearly", "3-4 Years", "Senior", "Null"];
 const validRoles = ["Admin", "Faculty/Staff", "Coach", "Mentor"];
 
 
@@ -63,11 +63,11 @@ exports.lambdaHandler = async (event, context) => {
             return ret;
 		}
 
-		const competencyId = requestBody.CompetencyId;
-		
+        const competencyId = requestBody.CompetencyId;
+        
+        const domain = requestBody.Domain;
+        
         const competencyTitle = requestBody.CompetencyTitle;
-		
-		const domain = requestBody.Domain;
 
 		const subcategory = requestBody.Subcategory;
 
@@ -85,8 +85,8 @@ exports.lambdaHandler = async (event, context) => {
         // Construct the competency object to store in the database
         const competency = {
             CompetencyId : competencyId,
-			CompetencyTitle : competencyTitle,
             Domain : domain,
+			CompetencyTitle : competencyTitle,
 			Subcategory: subcategory,
 			Importance: importance,
             Difficulty: difficulty,

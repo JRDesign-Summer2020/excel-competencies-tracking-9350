@@ -28,16 +28,10 @@ exports.lambdaHandler = async (event, context) => {
         if (indicator != null) {
             return indicator;
         }
-        const requestBody = JSON.parse(event.body);
-
-        
         
         const evalId = event.pathParameters.userId;
-
-      
         const compId = event.pathParameters.compId;
         const timestamp = event.pathParameters.timeStamp;
-
         const compId_timestamp = compId + "_" + timestamp;
 
         //The key representing the parameters for the delete and get request

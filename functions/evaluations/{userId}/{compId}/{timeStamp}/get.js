@@ -54,7 +54,7 @@ exports.lambdaHandler = async (event, context) => {
         //then the object will be null.  It is assumed that the ESK is base-64 encoded JSON (i.e. the exact same thing 
         //that was given back to the user in the previous response)
         if (queryStringParameters != null && "ExclusiveStartKey" in queryStringParameters && queryStringParameters.ExclusiveStartKey != "") {
-             params.ExclusiveStartKey = JSON.parse(Buffer.from(queryStringParameters.ExclusiveStartKey,'base64').toString('binary'));
+            params.ExclusiveStartKey = JSON.parse(Buffer.from(queryStringParameters.ExclusiveStartKey,'base64').toString('binary'));
         }
         //Gets the provided limit (maximum number of items it will display) and verifies that it is a valid value
         //If no limit is provided, it will default to returning every single item
